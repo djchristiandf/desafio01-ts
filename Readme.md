@@ -8,7 +8,8 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 ### Como rodar o projeto
 
-1 - Clone o repositório
+1 - Clone o repositório https://github.com/digitalinnovationone/desafio01-ts.git
+git clone https://github.com/digitalinnovationone/desafio01-ts.git
 
 2 - Instale as dependeências
     
